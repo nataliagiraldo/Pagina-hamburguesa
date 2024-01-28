@@ -335,7 +335,9 @@ h5 {
         height: 1600px;
     }
 
-   
+   #about h2{
+    height: 170px;
+   }
 
 
 }
